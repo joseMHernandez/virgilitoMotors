@@ -1,0 +1,48 @@
+
+
+/* .card{
+    margin: 2rem;
+    border: 2px solid #ededed;
+    padding: 2rem;
+    width:20rem;
+    height: 30rem;
+    cursor: pointer;
+    display: flex;
+    
+}
+ */ 
+
+
+.card{
+    margin: 2rem;
+    border: 1px solid #000;
+    
+    box-shadow: 0px 5px 8px black;
+    
+    cursor: pointer;
+    display: flex;
+    
+}
+
+
+
+.card-details{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+   padding: 3rem;
+   background-color: aliceblue;
+   
+   
+      
+}
+
+
+.card-details h3 {
+  margin-bottom: 0.7rem;
+  font-size: 1.6rem;
+   
+      
+}
+

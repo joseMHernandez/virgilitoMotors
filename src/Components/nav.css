@@ -1,0 +1,31 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem;
+    z-index: 0;
+    margin-left: 2rem;
+    background-color: #31393C;
+    margin: 0;
+
+
+}
+
+.search-input{
+    padding: 1rem 2rem;
+    border: none;
+    
+    outline: none;
+    margin-right: 2rem;
+    border-radius: 5px;
+    position: relative;
+    width: 30rem;
+    font-size: 1.6rem;
+    
+}
+
+.logo{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #f7f6f6;
+}
